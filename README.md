@@ -1,5 +1,5 @@
 # FlashCards
-A very simple flash card program I wrote a while back. 
+A very simple flash card program I wrote a while back to help me with studying. 
 
 #### How to compile:
 call 'make' in the command line
