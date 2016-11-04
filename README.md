@@ -1,6 +1,9 @@
 # FlashCards
 A very simple flash card program I wrote a while back. 
 
+#### How to compile:
+call 'make' in the command line
+
 ## How to format a deck:
 I tried design it in a way anyone can easily create and edit a deck, so instead of using xml or json this program simply parses a text file based on certain delimiters.
   
