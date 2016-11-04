@@ -33,6 +33,10 @@ A template and example deck can be found in the Decks folder.
     Enter file to load  
     ./Decks/TestDeck.txt  
 note: Decks do not have to be in this folder, if its in the local folder simply type the name of the deck file  
+  
+2) Pass in the file name as the second argument  
+#### Example:
+    $ ./flash_cards ./Decks/TestDeck.txt
 
 #### Commands:
 This program can display cards in random order, alphabetical order, or in the order you created the deck.  
